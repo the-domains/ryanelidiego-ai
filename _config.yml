@@ -1,7 +1,7 @@
 name: RyanEliDiego.ai
 favicon: null
-layout_spectrum: 0.08334322506561875
-typography_spectrum: 0.611079707974568
+layout_spectrum: 0.31841
+typography_spectrum: 0.50511
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.592051530489698
+    - '#0a0a39'
+    - '#afada0'
+    - '#928f88'
+    - '#785e62'
+    - '#1a394b'
+  brandStrength: 0.875
   lightness: 0.6676303746644408
-  saturation: 0.3117751432582736
-  rhythmicContrast: 0.3531077995430678
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
