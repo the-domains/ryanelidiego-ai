@@ -1,6 +1,6 @@
 name: RyanEliDiego.ai
 favicon: null
-layout_spectrum: 0.31841
+layout_spectrum: 0.02361
 typography_spectrum: 0.50511
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#928f88'
     - '#785e62'
     - '#1a394b'
-  brandStrength: 0.875
+  brandStrength: 0.625
   lightness: 0.6676303746644408
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
