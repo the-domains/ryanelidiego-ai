@@ -1,0 +1,28 @@
+name: RyanEliDiego.ai
+favicon: null
+layout_spectrum: 0.08334322506561875
+typography_spectrum: 0.611079707974568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.592051530489698
+  lightness: 0.6676303746644408
+  saturation: 0.3117751432582736
+  rhythmicContrast: 0.3531077995430678
+purpose: []
